@@ -1,5 +1,7 @@
 # Awesome-ICCV2019 陆续更新录用论文
 
+# 2019年7月26日更新28篇IIAI录用论文
+
 ## ICCV 简介
 ICCV 的全称是 IEEE International Conference on Computer Vision，即国际计算机视觉大会，由IEEE主办，与计算机视觉模式识别会议（CVPR）和欧洲计算机视觉会议（ECCV）并称计算机视觉方向的三大顶级会议，被澳大利亚ICT学术会议排名和中国计算机学会等机构评为最高级别学术会议，在业内具有极高的评价。
 不同于在美国每年召开一次的CVPR和只在欧洲召开的ECCV，ICCV在世界范围内每两年召开一次。ICCV论文录用率非常低，是三大会议中公认级别最高的 。上一届提交的论文中，其中621篇被接收，录用比例达 28.9%；其中 poster、spotlight、oral 的比例分别为 24.61%、2.61% 以及 2.09%。
@@ -1087,3 +1089,63 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 6968
 6978
 6981
+
+# 起源人工智能研究院 - Inception Institute of Artificial Intelligence (IIAI) 28篇论文
+
+## IIAI主页：www.inceptioniai.org/
+
+1. Unsupervised Video Object Segmentation via Attentive Graph Neural Networks
+
+2. DUAL-GLOWs: Conditional Flow-Based Generative Models for Inter-Modality Transfer in Brain Imaging
+
+3. Unsupervised Graph Association for Person Re-identification
+
+4. Relational Attention Network for Crowd Counting
+
+5. Attentional Neural Fields for Crowd Counting
+
+6. Learning Compositional Neural Information Fusion for Human Parsing
+
+7. RANet: Ranking Attention Network for Fast Video Object Segmentation
+
+8. Learning to Mask Visible Regions for Occluded Pedestrian Detection
+
+9. Boosted Feature Guided Refinement Network for Single-Shot Detection
+
+10. Deep Contextual Attention for Human-Object Interaction Detection
+
+11. Learning the Model Update for Siamese Trackers
+
+12. 3C-Net: Category Count and Center Loss for Weakly-Supervised Action Localization
+
+13. Learning Rich Features at High-Speed for Single-Shot Object Detection
+
+14. Transductive learning for zero-shot object detection 
+
+15. Ground-to-aerial Image Geo-localization with a Hard Exemplar Reweighting Triplet Loss
+
+16. Towards Bridging Semantic Gap to Improve Semantic Segmentation
+
+17. Adversarial Defense by Restricting the Hidden Space of Deep Neural Networks
+
+18. Motion Deblurring via Human-Aware Attention Network
+
+19. Gaussian Affinity for Max-margin Class Imbalanced Learning
+
+20. A Deep Step Pattern Representation for Multimodal Retinal Image Registration
+
+21. SegEQA: Video Segmentation based Visual Attention for Embodied Question Answering
+
+22. Reciprocal Multi-Layer Subspace Learning for Multi-View Clustering
+
+23. Scoot: A Perceptual Metric for Facial Sketches
+
+24. EGNet: Edge Guidance Network for Salient Object Detection
+
+25. PointAE: Point Auto-encoder for 3D Statistical Shape and Texture Modelling
+
+26. Understanding Human Gaze Communication by Spatio-temporal Graph Reasoning
+
+27. Optimizing the F-measure for Threshold-free Salient Object Detection
+
+28. SynDeMo: Synergistic Deep Feature Alignment for Joint Learning of Depth and Ego-Motion
