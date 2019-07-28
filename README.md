@@ -3,11 +3,11 @@
 *Last updated: 2019/07/28*
 
 #### Update log
-*2019/07/26* - 更新28篇IIAI录用论文
-*2019/07/28* - 更新11篇旷视ICCV2019
+* 2019/07/26* - 更新28篇IIAI录用论文
+* 2019/07/28* - 更新11篇旷视ICCV2019
 
 ## Table of Contents
-- [ICCV简介](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md##ICCV 简介)
+- [ICCV简介](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md##ICCV简介)
 - [ICCV录用编号](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md##ICCV2019最新录用论文编号)
 - [起源人工智能研究院](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md#起源人工智能研究院)
 - [旷视](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md#旷视研究院11篇论文入选ICCV2019)
