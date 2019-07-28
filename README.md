@@ -1,6 +1,16 @@
 # Awesome-ICCV2019 陆续更新录用论文
 
-# 2019年7月26日更新28篇IIAI录用论文
+*Last updated: 2019/07/28*
+
+#### Update log
+*2019/07/26* - 更新28篇IIAI录用论文
+*2019/07/28* - 更新11篇旷视ICCV2019
+
+## Table of Contents
+- [ICCV简介](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md##ICCV 简介)
+- [ICCV录用编号](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md##ICCV2019最新录用论文编号)
+- [起源人工智能研究院](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md#起源人工智能研究院)
+- [旷视](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md#旷视研究院11篇论文入选ICCV2019)
 
 ## ICCV 简介
 ICCV 的全称是 IEEE International Conference on Computer Vision，即国际计算机视觉大会，由IEEE主办，与计算机视觉模式识别会议（CVPR）和欧洲计算机视觉会议（ECCV）并称计算机视觉方向的三大顶级会议，被澳大利亚ICT学术会议排名和中国计算机学会等机构评为最高级别学术会议，在业内具有极高的评价。
@@ -1149,3 +1159,26 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 27. Optimizing the F-measure for Threshold-free Salient Object Detection
 
 28. SynDeMo: Synergistic Deep Feature Alignment for Joint Learning of Depth and Ego-Motion
+
+# 旷视研究院 11 篇论文入选 ICCV 2019
+1、Objects365: A Large-scale, High-quality Dataset for Object Detection
+ 
+2、ThunderNet: Towards Real-time Generic Object Detection
+
+3、Efficient and Accurate Arbitrary-Shaped Text Detection with PixelAggregation Network
+ 
+4、Semi-supervised Skin Detection by Network with Mutual Guidance
+ 
+5、Semi-Supervised Video Salient Object Detection Using Pseudo-Labels
+ 
+6、Disentangled Image Matting
+ 
+7、Re-ID Driven Localization Refinement for Person Search
+ 
+8、Vehicle Re-identification with Viewpoint-aware Metric Learning
+ 
+9、MetaPruning: Meta Learning for Automatic Neural Network ChannelPruning
+ 
+10、Symmetry-constrained Rectification Network for Scene Text Recognition
+ 
+11、Learning to Paint with Model-based Deep Reinforcement Learning
