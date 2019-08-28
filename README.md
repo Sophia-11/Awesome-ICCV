@@ -9,8 +9,9 @@
 ## Table of Contents
 - [ICCV简介](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md##ICCV简介)
 - [ICCV录用编号](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md##ICCV2019最新录用论文编号)
-- [起源人工智能研究院](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md#起源人工智能研究院)
-- [旷视](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md#旷视研究院11篇论文入选ICCV2019)
+- [起源人工智能研究院28篇](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md#起源人工智能研究院)
+- [旷视11篇](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md#旷视研究院11篇论文入选ICCV2019)
+- [2019 ICCV Oral 31篇](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md#2019 ICCV Oral)
 
 ## ICCV 简介
 ICCV 的全称是 IEEE International Conference on Computer Vision，即国际计算机视觉大会，由IEEE主办，与计算机视觉模式识别会议（CVPR）和欧洲计算机视觉会议（ECCV）并称计算机视觉方向的三大顶级会议，被澳大利亚ICT学术会议排名和中国计算机学会等机构评为最高级别学术会议，在业内具有极高的评价。
