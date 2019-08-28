@@ -1199,59 +1199,54 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 ###### https://arxiv.org/abs/1908.00052
 6.	Scalable Place Recognition Under Appearance Change for Autonomous Driving
 ###### https://arxiv.org/abs/1908.00178
-13.	Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations
+7.	Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations
 ###### https://arxiv.org/abs/1908.01940
-14.	Consensus Maximization Tree Search Revisited
+8.	Consensus Maximization Tree Search Revisited
 ###### https://arxiv.org/abs/1908.02021
-15.	Weakly Supervised Energy-Based Learning for Action Segmentation
-16.	Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification
+9.	Weakly Supervised Energy-Based Learning for Action Segmentation
+10.	Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification
 ###### https://arxiv.org/abs/1811.10144
-17.	Controllable Artistic Text Style Transfer via Shape-Matching GAN
+11.	Controllable Artistic Text Style Transfer via Shape-Matching GAN
 ###### https://arxiv.org/abs/1905.01354
-18.	Multi-Agent Reinforcement Learning Based Frame Sampling for Effective Untrimmed Video Recognition
+12.	Multi-Agent Reinforcement Learning Based Frame Sampling for Effective Untrimmed Video Recognition
 ###### https://arxiv.org/abs/1907.13369
-19.	Expectation-Maximization Attention Networks for Semantic Segmentation
+13.	Expectation-Maximization Attention Networks for Semantic Segmentation
 ###### https://arxiv.org/abs/1907.13426
-20.	VideoBERT: A Joint Model for Video and Language Representation Learning 
+14.	VideoBERT: A Joint Model for Video and Language Representation Learning 
 ###### https://arxiv.org/abs/1904.01766
-21.	CARAFE: Content-Aware ReAssembly of FEatures 
+15.	CARAFE: Content-Aware ReAssembly of FEatures 
 ###### https://arxiv.org/pdf/1905.02188.pdf
-22.	Habitat: A Platform for Embodied AI Research
+16.	Habitat: A Platform for Embodied AI Research
 ###### https://arxiv.org/abs/1904.01201
-23.	Equivariant Multi-View Networks 
+17.	Equivariant Multi-View Networks 
 ###### https://arxiv.org/abs/1904.00993
-24.	PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows
+18.	PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows
 ###### https://arxiv.org/abs/1906.12320
-25.	Learnable Triangulation of Human Pose
+19.	Learnable Triangulation of Human Pose
 ###### https://arxiv.org/abs/1905.05754
-26.	Learning Implicit Generative Models by Matching Perceptual Features
+20.	Learning Implicit Generative Models by Matching Perceptual Features
 ###### https://arxiv.org/abs/1904.02762v1
-27.	COCO-GAN: Generation by Parts via Conditional Coordinating
+21.	COCO-GAN: Generation by Parts via Conditional Coordinating
 ###### https://arxiv.org/abs/1904.00284
-28.	SlowFast Networks for Video Recognition
+22.	SlowFast Networks for Video Recognition
 ###### https://arxiv.org/abs/1812.03982
-29.	Exploring Randomly Wired Neural Networks for Image Recognition
+23.	Exploring Randomly Wired Neural Networks for Image Recognition
 ###### https://arxiv.org/abs/1904.01569
-30.	Can GCNs Go as Deep as CNNs?
+24.	Can GCNs Go as Deep as CNNs?
 ###### https://arxiv.org/abs/1904.03751
-31.	Deep SR-ITM: Joint Learning of Super-resolution and Inverse Tone-Mapping for 4K UHD HDR Applications
+25.	Deep SR-ITM: Joint Learning of Super-resolution and Inverse Tone-Mapping for 4K UHD HDR Applications
 ###### https://arxiv.org/abs/1904.11176
-32.	Meta-Sim Learning to Generate Synthetic Datasets
+26.	Meta-Sim Learning to Generate Synthetic Datasets
 ###### https://arxiv.org/abs/1904.11621
-33.	Deep HoughVoting for 3D Object Detection in Point Clouds
+27.	Deep HoughVoting for 3D Object Detection in Point Clouds
 ###### https://arxiv.org/abs/1904.09664
-34.	Variational Adversarial Active Learning
+28.	Variational Adversarial Active Learning
 ###### https://arxiv.org/abs/1904.00370
-1.	Towards Unconstrained End-to-End Text Spotting
+29.	Towards Unconstrained End-to-End Text Spotting
 ###### https://arxiv.org/abs/1908.09231
-1.	Non-local Recurrent Neural Memory for Supervised Sequence Modeling
+30.	Non-local Recurrent Neural Memory for Supervised Sequence Modeling
 ###### https://arxiv.org/abs/1908.09535
-1.	Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels
+31.	Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels
 ###### https://arxiv.org/abs/1908.09597
-1.	Photo-Realistic Facial Details Synthesis from Single Image(Oral)
-###### https://arxiv.org/abs/1903.10873 
-1.	PR Product: A Substitute for Inner Product in Neural Networks
-###### https://arxiv.org/abs/1904.13148
-1.	Cascaded Context Pyramid for Full-Resolution 3D Semantic Scene Completion
 
 
