@@ -1182,3 +1182,76 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 10、Symmetry-constrained Rectification Network for Scene Text Recognition
  
 11、Learning to Paint with Model-based Deep Reinforcement Learning
+
+
+# 2019 ICCV Oral
+
+###### https://arxiv.org/abs/1908.00382
+1.	Interpolated Convolutional Networks for 3D Point Cloud Understanding
+###### https://arxiv.org/abs/1908.04512
+2.	Memory-Based Neighbourhood Embedding for Visual Recognition
+###### https://arxiv.org/abs/1908.04992
+3.	Learning Trajectory Dependencies for Human Motion Prediction
+###### https://arxiv.org/abs/1908.05436
+4.	Domain Adaptation for Structured Output via Discriminative Patch Representations
+###### https://arxiv.org/abs/1901.05427 
+5.	Deep Non-Rigid Structure from Motion
+###### https://arxiv.org/abs/1908.00052
+6.	Scalable Place Recognition Under Appearance Change for Autonomous Driving
+###### https://arxiv.org/abs/1908.00178
+13.	Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations
+###### https://arxiv.org/abs/1908.01940
+14.	Consensus Maximization Tree Search Revisited
+###### https://arxiv.org/abs/1908.02021
+15.	Weakly Supervised Energy-Based Learning for Action Segmentation
+16.	Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification
+###### https://arxiv.org/abs/1811.10144
+17.	Controllable Artistic Text Style Transfer via Shape-Matching GAN
+###### https://arxiv.org/abs/1905.01354
+18.	Multi-Agent Reinforcement Learning Based Frame Sampling for Effective Untrimmed Video Recognition
+###### https://arxiv.org/abs/1907.13369
+19.	Expectation-Maximization Attention Networks for Semantic Segmentation
+###### https://arxiv.org/abs/1907.13426
+20.	VideoBERT: A Joint Model for Video and Language Representation Learning 
+###### https://arxiv.org/abs/1904.01766
+21.	CARAFE: Content-Aware ReAssembly of FEatures 
+###### https://arxiv.org/pdf/1905.02188.pdf
+22.	Habitat: A Platform for Embodied AI Research
+###### https://arxiv.org/abs/1904.01201
+23.	Equivariant Multi-View Networks 
+###### https://arxiv.org/abs/1904.00993
+24.	PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows
+###### https://arxiv.org/abs/1906.12320
+25.	Learnable Triangulation of Human Pose
+###### https://arxiv.org/abs/1905.05754
+26.	Learning Implicit Generative Models by Matching Perceptual Features
+###### https://arxiv.org/abs/1904.02762v1
+27.	COCO-GAN: Generation by Parts via Conditional Coordinating
+###### https://arxiv.org/abs/1904.00284
+28.	SlowFast Networks for Video Recognition
+###### https://arxiv.org/abs/1812.03982
+29.	Exploring Randomly Wired Neural Networks for Image Recognition
+###### https://arxiv.org/abs/1904.01569
+30.	Can GCNs Go as Deep as CNNs?
+###### https://arxiv.org/abs/1904.03751
+31.	Deep SR-ITM: Joint Learning of Super-resolution and Inverse Tone-Mapping for 4K UHD HDR Applications
+###### https://arxiv.org/abs/1904.11176
+32.	Meta-Sim Learning to Generate Synthetic Datasets
+###### https://arxiv.org/abs/1904.11621
+33.	Deep HoughVoting for 3D Object Detection in Point Clouds
+###### https://arxiv.org/abs/1904.09664
+34.	Variational Adversarial Active Learning
+###### https://arxiv.org/abs/1904.00370
+1.	Towards Unconstrained End-to-End Text Spotting
+###### https://arxiv.org/abs/1908.09231
+1.	Non-local Recurrent Neural Memory for Supervised Sequence Modeling
+###### https://arxiv.org/abs/1908.09535
+1.	Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels
+###### https://arxiv.org/abs/1908.09597
+1.	Photo-Realistic Facial Details Synthesis from Single Image(Oral)
+###### https://arxiv.org/abs/1903.10873 
+1.	PR Product: A Substitute for Inner Product in Neural Networks
+###### https://arxiv.org/abs/1904.13148
+1.	Cascaded Context Pyramid for Full-Resolution 3D Semantic Scene Completion
+
+
