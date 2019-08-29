@@ -1,11 +1,14 @@
-# Awesome-ICCV2019 陆续更新录用论文
+# 本内容现在是ICCV2019,后期会更新为ICCV2020以随时更新
+# Awesome-ICCV2019 陆续更新录用论文（已更新200余篇ICCV2019论文）
 
-*Last updated: 2019/08/28*
+*Last updated: 2019/08/29*
 
 #### Update log
-* 2019/07/26* - 更新28篇IIAI录用论文
-* 2019/07/28* - 更新11篇旷视ICCV2019
-* 2019/08/28* - 更新31篇Oral
+* 2019/07/26 * - 更新28篇IIAI录用论文
+* 2019/07/28 * - 更新11篇旷视ICCV2019
+* 2019/08/28 * - 更新31篇Oral
+* 2019/08/29 * - 增加116篇ICCV2019文章
+* 2019/08/29 * - 增加35篇包含开源代码的ICCV2019
 
 ## Table of Contents
 - [ICCV简介](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md##ICCV简介)
@@ -13,6 +16,8 @@
 - [起源人工智能研究院28篇](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md#起源人工智能研究院)
 - [旷视11篇](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md#旷视研究院11篇论文入选ICCV2019)
 - [2019ICCVOral31篇](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md#2019ICCVOral)
+- [增加116篇ICCV2019文章](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md#增加116篇ICCV2019文章)
+- [增加35篇包含开源代码的ICCV2019](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/README.md#增加35篇包含开源代码的ICCV2019)
 
 ## ICCV 简介
 ICCV 的全称是 IEEE International Conference on Computer Vision，即国际计算机视觉大会，由IEEE主办，与计算机视觉模式识别会议（CVPR）和欧洲计算机视觉会议（ECCV）并称计算机视觉方向的三大顶级会议，被澳大利亚ICT学术会议排名和中国计算机学会等机构评为最高级别学术会议，在业内具有极高的评价。
@@ -1486,4 +1491,104 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 116.	DADA: Depth-Aware Domain Adaptation in Semantic Segmentation 
 ###### https://arxiv.org/abs/1904.01886 
 
+##
+# 增加35篇包含开源代码的ICCV2019
+
+1.	Bidirectional One-Shot Unsupervised Domain Mapping
+###### https://github.com/tomercohen11/BiOST
+2.	Joint Monocular 3D Detection and Tracking
+###### https://arxiv.org/abs/1811.10742
+###### https://github.com/ucbdrive/3d-vehicle-tracking
+3.	MonoLoco: Monocular 3D Pedestrian Localization and Uncertainty Estimation
+###### https://arxiv.org/abs/1906.06059
+###### https://github.com/vita-epfl/monoloco
+4.	Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data
+###### https://github.com/xw-hu/Mask-ShadowGAN
+5.	Towards High-Resolution Salient Object Detection
+###### https://arxiv.org/abs/1908.07274
+###### https://github.com/yi94code/HRSOD
+6.	Confidence Regularized Self-Training
+###### https://arxiv.org/abs/1908.09822
+###### https://github.com/yzou2/CRST
+7.	Optimizing the F-measure for Threshold-free Salient Object Detectionhttp://data.kaizhao.net/publications/iccv2019fmeasure.pdf
+###### https://github.com/zeakey/iccv2019-fmeasure
+8.	Perspective-Guided Convolution Networks for Crowd Counting
+###### https://github.com/Zhaoyi-Yan/PGCNet
+9.	End-to-End Wireframe Parsing
+###### https://arxiv.org/abs/1905.03246
+###### https://github.com/zhou13/lcnn
+10.	Temporal Attentive Alignment for Large-Scale Video Domain Adaptation
+###### https://arxiv.org/abs/1907.12743http://github.com/cmhungsteve/TA3N
+11.	From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer
+###### https://arxiv.org/abs/1908.06473
+###### https://github. com/xhp-hust-2018-2011/S-DCNet
+12.	Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN
+###### https://arxiv.org/abs/1904.10247
+###### https://github.com/amjltc295/Free-Form-Video-Inpainting
+13.	What Would You Expect? Anticipating Egocentric Actions with Rolling-Unrolling LSTMs and Modality Attention
+###### https://arxiv.org/pdf/1905.09035.pdf
+###### https://github.com/antoninofurnari/rulstm
+14.	CompenNet++: End-to-end Full Projector Compensation
+###### https://github.com/BingyaoHuang/CompenNet-plusplus
+15.	Pose-aware Dynamic Attention for Human Object Interaction Detection
+###### https://github.com/bobwan1995/Pose-aware-Dynamic-Attention-for-Human-Object-Interaction-Detection
+16.	Temporally-Aggregating Spatial Encoder-Decoder for Video Saliency Detection
+###### https://github.com/kylemin/TASED-Net
+17.	PU-GAN: a Point Cloud Upsampling Adversarial Network
+###### https://arxiv.org/abs/1907.10844
+###### https://github.com/liruihui/PU-GAN
+18.	A Closed-form Solution to Universal Style Transfer
+###### https://arxiv.org/abs/1906.00668
+###### https://github.com/lu-m13/OptimalStyleTransfer
+19.	Video Face Clustering with Unknown Number of Clusters
+###### https://github.com/makarandtapaswi/BallClustering_ICCV2019
+20.	TSM: Temporal Shift Module for Efficient Video Understanding
+###### https://arxiv.org/abs/1811.08383
+###### https://github.com/mit-han-lab/temporal-shift-module
+21.	Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image
+###### https://arxiv.org/abs/1907.11346
+###### https://github.com/mks0601/3DMPPE_ROOTNET_RELEASE
+22.	3D-RelNet: Joint Object and Relational Network for 3D Prediction
+###### https://arxiv.org/pdf/1906.02729.pdf
+###### https://github.com/nileshkulkarni/relative3d
+23.	Few-shot Unsupervised Image-to-Image Translation
+###### https://arxiv.org/abs/1905.01723
+###### https://github.com/nvlabs/FUNIT/
+24.	Metric Learning with HORDE: High-Order Regularizer for Deep Embeddings
+###### https://arxiv.org/abs/1908.02735
+###### https://github.com/pierre-jacob/ICCV2019-Horde
+25.	Model Vulnerability to Distributional Shifts over Image Transformation Sets
+###### https://arxiv.org/abs/1903.11900
+###### https://github.com/ricvolpi/domain-shift-robustness
+26.	Language-Conditioned Graph Networks for Relational Reasoning
+###### https://arxiv.org/abs/1905.04405
+###### https://github.com/ronghanghu/lcgn
+27.	Domain Intersection and Domain Difference
+###### https://github.com/sagiebenaim/DomainIntersectionDifference
+28.	Probabilistic Face Embeddings
+###### https://arxiv.org/abs/1904.09658
+###### https://github.com/seasonSH/Probabilistic-Face-Embeddings
+29.	Counting with Focus for Free
+###### https://arxiv.org/abs/1903.12206
+###### https://github.com/shizenglin/Counting-with-Focus-for-Free
+30.	CCNet: Criss-Cross Attention for Semantic Segmentation
+###### https://arxiv.org/abs/1811.11721
+###### https://github.com/speedinghzl/CCNet
+31.	ABD-Net: Attentive but Diverse Person Re-Identification
+###### https://arxiv.org/abs/1908.01114
+###### https://github.com/TAMU-VITA/ABD-Net
+32.	AutoGAN: Neural Architecture Search for Generative Adversarial Networks
+###### https://github.com/TAMU-VITA/AutoGAN
+33.	SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation with Semi-supervised Learning
+###### https://github.com/TerenceCYJ/SO-HandNet
+34.	Tex2Shape: Detailed Full Human Body Geometry from a Single Image
+###### https://arxiv.org/abs/1904.08645
+###### https://github.com/thmoa/tex2shape
+35.	FCOS: Fully Convolutional One-Stage Object Detectio
+###### https://arxiv.org/abs/1904.01355
+###### https://github.com/tianzhi0549/FCOS/
+36.	
+37.	
+38.	
+39.	
 
