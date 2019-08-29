@@ -1185,6 +1185,7 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
  
 11、Learning to Paint with Model-based Deep Reinforcement Learning
 
+##
 
 # 2019 ICCV Oral
 
@@ -1250,6 +1251,9 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 ###### https://arxiv.org/abs/1908.09535
 31.	Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels
 ###### https://arxiv.org/abs/1908.09597
+
+##
+# 增加116篇ICCV2019文章
 
 1.	Similarity-Preserving Knowledge Distillation
 ###### https://arxiv.org/abs/1907.09682
