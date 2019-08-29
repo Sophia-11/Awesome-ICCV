@@ -1251,4 +1251,235 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 31.	Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels
 ###### https://arxiv.org/abs/1908.09597
 
+1.	Similarity-Preserving Knowledge Distillation
+###### https://arxiv.org/abs/1907.09682
+2.	GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition
+###### https://arxiv.org/abs/1907.09653
+3.	Tell, Draw, and Repeat: Generating and modifying images based on continual linguistic instruction
+###### https://arxiv.org/pdf/1811.09845.pdf
+4.	Semantic Adversarial Attacks: Parametric Transformations That Fool Deep Classifiers
+###### https://arxiv.org/abs/1904.08489
+5.	nocaps: novel object captioning at scale
+###### https://arxiv.org/abs/1812.08658
+6.	ThunderNet: Towards Real-time Generic Object Detection
+###### https://arxiv.org/abs/1903.11752
+7.	Scene GraphPrediction with Limited Labels
+###### https://arxiv.org/abs/1904.11622
+8.	Ego-Pose Estimation and Forecasting as Real-Time PD Control
+###### https://arxiv.org/abs/1906.03173
+9.	The Trajectron: Probabilistic Multi-Agent Trajectory Modeling withDynamic Spatiotemporal Graphs
+###### https://arxiv.org/abs/1810.05993
+10.	End-to-End Learning of Representations for Asynchronous Event-BasedData
+###### https://arxiv.org/abs/1904.08245
+11.	Efficient Learning on Point Clouds with Basis Point Sets
+###### https://arxiv.org/abs/1908.09186
+12.	Dynamic Kernel Distillation for Efficient Pose Estimation in Videos
+###### https://arxiv.org/abs/1908.09216
+13.	Single-Stage Multi-Person Pose Machines
+###### https://arxiv.org/abs/1908.09220
+14.	Towards Unsupervised Image Captioning with Shared Multimodal Embeddings
+###### https://arxiv.org/abs/1908.09317
+15.	advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns
+###### https://arxiv.org/abs/1908.09327
+16.	Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images
+###### https://arxiv.org/abs/1908.09464
+17.	Relation Distillation Networks for Video Object Detection
+###### https://arxiv.org/abs/1908.09511
+18.	Object-Driven Multi-Layer Scene Decomposition From a Single Image
+###### https://arxiv.org/abs/1908.09521
+19.	Embarrassingly Simple Binary Representation Learning
+###### https://arxiv.org/abs/1908.09573
+20.	Moulding Humans: Non-parametric 3D Human Shape Estimation from Single Images
+###### https://arxiv.org/abs/1908.00439
+21.	Learning the Model Update for Siamese Trackers
+###### https://arxiv.org/abs/1908.00855
+22.	Distilling Knowledge From a Deep Pose Regressor Network
+###### https://arxiv.org/abs/1908.00858
+23.	Permutation-invariant Feature Restructuring for Correlation-aware Image Set-based Recognition
+###### https://arxiv.org/abs/1908.01174
+24.	ARGAN: Attentive Recurrent Generative Adversarial Network for Shadow Detection and Removal
+###### https://arxiv.org/abs/1908.01323
+25.	Pixel2Mesh++: Multi-View 3D Mesh Generation via Deformation
+###### https://arxiv.org/abs/1908.01491
+26.	View N-gram Network for 3D Object Retrieval
+###### https://arxiv.org/abs/1908.01958
+27.	Semi-supervised Skin Detection by Network with Mutual Guidance
+###### https://arxiv.org/abs/1908.01977
+28.	Deep Self-Learning From Noisy Labels
+###### https://arxiv.org/abs/1908.02160
+29.	Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking
+###### https://arxiv.org/abs/1908.02231
+30.	Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning
+###### https://arxiv.org/abs/1908.02441
+31.	Expert Sample Consensus Applied to Camera Re-Localization
+###### https://arxiv.org/abs/1908.02484
+32.	SpatialSense: An Adversarially Crowdsourced Benchmark for Spatial Relation Recognition
+###### https://arxiv.org/abs/1908.02660
+33.	GP2C: Geometric Projection Parameter Consensus for Joint 3D Pose and Focal Length Estimation in the Wild
+###### https://arxiv.org/abs/1908.02809
+34.	SemanticKITTI: A Dataset for Semantic Scene Understanding of LiDAR Sequences
+###### https://arxiv.org/abs/1904.01416
+35.	Multi-Angle Point Cloud-VAE: Unsupervised Feature Learning for 3D Point Clouds from Multiple Angles by Joint Self-Reconstruction and Half-to-Half Prediction
+###### https://arxiv.org/abs/1907.12704
+36.	Orientation-aware Semantic Segmentation on Icosahedron Spheres
+###### https://arxiv.org/abs/1907.12849
+37.	EMPNet: Neural Localisation and Mapping using Embedded Memory Points
+###### https://arxiv.org/abs/1907.13268
+38.	SceneGraphNet: Neural Message Passing for 3D Indoor Scene Augmentation
+###### https://arxiv.org/abs/1907.11308
+39.	On the Design of Black-box Adversarial Examples by Leveraging Gradient-free Optimization and Operator Splitting Method
+###### https://arxiv.org/abs/1907.11684
+40.	Goal-Driven Sequential Data Abstraction
+###### https://arxiv.org/abs/1907.12336
+41.	Recursive Cascaded Networks for Unsupervised Medical Image Registration
+###### https://arxiv.org/abs/1907.12353
+42.	Learn to Scale: Generating Multipolar Normalized Density Map for Crowd Counting
+###### https://arxiv.org/abs/1907.12428
+43.	HoloGAN: Unsupervised learning of 3D representations from natural images
+###### https://arxiv.org/abs/1904.01326
+44.	MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning
+###### https://arxiv.org/abs/1903.10258
+45.	FrameNet: Learning Local Canonical Frames of 3D Surfaces from a Single RGB Image
+###### https://arxiv.org/pdf/1903.12305.pdf
+46.	Face De-occlusion using 3D Morphable Model and Generative Adversarialhttp://image.inha.ac.kr/paper/ICCV2019_Xaiowei.pdf
+47.	Deep Meta Learning for Real-Time Target-Aware Visual Tracking
+###### https://arxiv.org/pdf/1712.09153.pdf
+48.	Switchable Whitening for Deep Representation Learning
+###### https://arxiv.org/abs/1904.09739
+49.	Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution
+###### https://arxiv.org/abs/1904.05049
+50.	Multi-layer Depth and Epipolar Feature Transformers for 3D Scene Reconstruction
+###### https://arxiv.org/abs/1902.06729
+51.	Task2Vec: Task Embedding for Meta-Learning
+###### https://arxiv.org/abs/1902.03545
+52.	ACE: Adapting to Changing Environments for Semantic Segmentation
+###### https://arxiv.org/pdf/1904.06268.pdf
+53.	Few-shot Object Detection via Feature Reweighting
+###### https://arxiv.org/pdf/1812.01866.pdf
+54.	Disentangling Propagation and Generation for Video Prediction
+###### https://arxiv.org/pdf/1812.00452.pdf
+55.	An Empirical Study of Spatial Attention Mechanisms in Deep Networks
+###### https://arxiv.org/pdf/1904.05873.pdf
+56.	Fashion++: Minimal Edits for Outfit Improvement
+###### https://arxiv.org/pdf/1904.09261.pdf
+57.	Align2Ground: Weakly Supervised Phrase Grounding Guided by Image-Caption Alignment
+###### https://arxiv.org/pdf/1903.11649.pdf
+58.	Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded
+###### https://arxiv.org/pdf/1902.03751.pdf
+59.	SplitNet: Sim2Sim and Task2Task Transfer for Embodied Visual Navigation
+###### https://arxiv.org/pdf/1905.07512.pdf
+60.	EM-Fusion: Dynamic Object-Level SLAM with Probabilistic Data Association
+###### https://arxiv.org/abs/1904.11781
+61.	Texture Fields: Learning Texture Representations in Function Space
+###### https://arxiv.org/abs/1905.07259
+62.	AMASS: Archive of Motion Capture as Surface Shapes
+###### https://arxiv.org/abs/1904.03278
+63.	End-to-end Learning for Graph Decomposition
+###### https://arxiv.org/pdf/1812.09737.pdf
+64.	Towards Multi-pose Guided Virtual Try-on Network
+###### https://arxiv.org/abs/1902.11026
+65.	Learning to Reconstruct 3D Manhattan Wireframes from a Single Image
+###### https://arxiv.org/abs/1905.07482
+66.	Coherent Semantic Attention for Image Inpainting
+###### https://arxiv.org/abs/1905.12384
+67.	LayoutVAE: Stochastic Scene Layout Generation from a Label Set
+###### https://arxiv.org/abs/1907.10719
+68.	Co-Evolutionary Compression for Unpaired Image Translation
+###### https://arxiv.org/abs/1907.10804
+69.	Enhancing Adversarial Example Transferability with an Intermediate Level Attack
+###### https://arxiv.org/abs/1907.10823
+70.	Simultaneous multi-view instance detection with learned geometric soft-constraints
+###### https://arxiv.org/abs/1907.10892
+71.	Gated2Depth: Real-time Dense Lidar from Gated Images
+###### https://www.cs.princeton.edu/~fheide/papers/Gated2Depth_preprint.pdf
+72.	Moment Matching for Multi-Source Domain Adaptation
+###### https://arxiv.org/abs/1812.01754
+73.	Learning Compositional Representations for Few-Shot Recognition
+###### https://sites.google.com/view/comprepr/home
+74.	Digging Into Self-Supervised Monocular Depth Estimation
+###### https://arxiv.org/pdf/1806.01260.pdf
+75.	Deep Interpretable Non-Rigid Structure from Motion
+###### https://arxiv.org/pdf/1902.10840.pdf
+76.	PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings
+###### https://arxiv.org/pdf/1905.01296.pdf
+77.	Lifelong GAN: Continual Learning for Conditional Image Generation
+###### https://arxiv.org/abs/1907.10107
+78.	Cap2Det: Learning to Amplify Weak Caption Supervision for Object Detection
+###### https://arxiv.org/abs/1907.10164
+79.	Towards Adversarially Robust Object Detection
+###### https://arxiv.org/abs/1907.10310
+80.	6-DOF GraspNet: Variational Grasp Generation for Object Manipulation
+###### https://arxiv.org/abs/1905.10520
+81.	Analyzing the Variety Loss in the Context of Probabilistic Trajectory Prediction
+###### https://arxiv.org/abs/1907.10178
+82.	DAFL: Data-Free Learning of Student Networks
+###### https://arxiv.org/abs/1904.01186
+83.	Multi-adversarial Faster-RCNN for Unrestricted Object Detection
+###### https://arxiv.org/abs/1907.10343
+84.	Boosting Few-Shot Visual Learning with Self-Supervision
+###### https://arxiv.org/abs/1906.05186
+85.	A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers
+###### https://arxiv.org/abs/1905.12536
+86.	Embodied Visual Recognition
+87.	Rethinking ImageNet Pre-training
+###### https://arxiv.org/abs/1811.08883
+88.	TensorMask: A Foundation for Dense Object Segmentation
+###### https://arxiv.org/abs/1903.12174
+89.	3D Point Cloud Learning for Large-scale Environment Analysis and Place Recognition
+###### https://arxiv.org/abs/1812.07050
+90.	Selectivity or Invariance: Boundary-aware Salient Object Detection
+###### https://arxiv.org/pdf/1812.10066.pdf
+91.	Creativity Inspired Zero-Shot Learning
+###### https://arxiv.org/abs/1904.01109
+92.	HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips
+###### https://arxiv.org/abs/1906.03327
+93.	Correlation Congruence for Knowledge Distillation
+###### https://arxiv.org/abs/1904.018029
+94.	VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research
+###### https://arxiv.org/abs/1904.03493
+95.	Episodic Training for Domain Generalization
+###### https://arxiv.org/abs/1902.00113
+96.	GarNet: A Two-stream Network for Fast and Accurate 3D Cloth Draping
+###### https://arxiv.org/abs/1811.10983v2
+97.	Semi-supervised Domain Adaptation via Minimax Entropy
+###### https://arxiv.org/abs/1904.06487
+98.	xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera
+###### https://arxiv.org/abs/1907.10045
+99.	Canonical Surface Mapping via Geometric Cycle Consistency
+###### https://arxiv.org/abs/1907.10043
+100.	Incremental Class Discovery for Semantic Segmentation with RGBD Sensing
+###### https://arxiv.org/abs/1907.10008
+101.	U4D: Unsupervised 4D Dynamic Scene Understanding
+###### https://arxiv.org/abs/1907.09905
+102.	BMN: Boundary-Matching Network for Temporal Action Proposal Generation
+###### https://arxiv.org/abs/1907.09702
+103.	SPGNet: Semantic Prediction Guidance for Scene Parsing
+###### https://arxiv.org/abs/1908.09798
+104.	Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation
+###### https://arxiv.org/abs/1811.07456
+105.	DUP-Net: Denoiser and Upsampler Network for 3D Adversarial Point Clouds Defense
+###### https://arxiv.org/abs/1812.11017
+106.	Closed-Form Optimal Two-View Triangulation Based on Angular Errors
+###### https://arxiv.org/abs/1903.09115
+107.	Learning Combinatorial Embedding Networks for Deep Graph Matching
+###### https://arxiv.org/abs/1904.00597
+108.	A Novel Unsupervised Camera-aware Domain Adaptation Framework for Person Re-identification
+###### https://arxiv.org/abs/1904.03425
+109.	Remote Heart Rate Measurement from Highly Compressed Facial Videos: an End-to-end Deep Learning Solution with Video Enhancement
+###### https://arxiv.org/abs/1907.11921
+110.	Symmetry-constrained Rectification Network for Scene Text Recognition
+###### https://arxiv.org/abs/1908.01957
+111.	STM: SpatioTemporal and Motion Encoding for Action Recognition
+###### https://arxiv.org/abs/1908.02486
+112.	Explicit Shape Encoding for Real-Time Instance Segmentation
+###### https://arxiv.org/abs/1908.04067
+113.	Few-Shot Learning with Global Class Representations
+###### https://arxiv.org/abs/1908.05257
+114.	Symmetric Cross Entropy for Robust Learning with Noisy Labels
+###### https://arxiv.org/abs/1908.06112
+115.	Human Mesh Recovery from Monocular Images via a Skeleton-disentangled Representation
+###### https://arxiv.org/abs/1908.07172
+116.	DADA: Depth-Aware Domain Adaptation in Semantic Segmentation 
+###### https://arxiv.org/abs/1904.01886 
+
 
