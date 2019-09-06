@@ -1194,68 +1194,72 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 
 # 2019 ICCV Oral
 
+1. Cascaded Context Pyramid for Full-Resolution 3D Semantic Scene Completion
 ###### https://arxiv.org/abs/1908.00382
-1.	Interpolated Convolutional Networks for 3D Point Cloud Understanding
+2.	Interpolated Convolutional Networks for 3D Point Cloud Understanding
 ###### https://arxiv.org/abs/1908.04512
-2.	Memory-Based Neighbourhood Embedding for Visual Recognition
+3.	Memory-Based Neighbourhood Embedding for Visual Recognition
 ###### https://arxiv.org/abs/1908.04992
-3.	Learning Trajectory Dependencies for Human Motion Prediction
+4.	Learning Trajectory Dependencies for Human Motion Prediction
 ###### https://arxiv.org/abs/1908.05436
-4.	Domain Adaptation for Structured Output via Discriminative Patch Representations
+5.	Domain Adaptation for Structured Output via Discriminative Patch Representations
 ###### https://arxiv.org/abs/1901.05427 
-5.	Deep Non-Rigid Structure from Motion
+6.	Deep Non-Rigid Structure from Motion
 ###### https://arxiv.org/abs/1908.00052
-6.	Scalable Place Recognition Under Appearance Change for Autonomous Driving
+7.	Scalable Place Recognition Under Appearance Change for Autonomous Driving
 ###### https://arxiv.org/abs/1908.00178
-7.	Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations
+8.	Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations
 ###### https://arxiv.org/abs/1908.01940
-8.	Consensus Maximization Tree Search Revisited
+9.	Consensus Maximization Tree Search Revisited
 ###### https://arxiv.org/abs/1908.02021
-9.	Weakly Supervised Energy-Based Learning for Action Segmentation
-10.	Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification
+10.	Weakly Supervised Energy-Based Learning for Action Segmentation
+######
+11.	Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification
 ###### https://arxiv.org/abs/1811.10144
-11.	Controllable Artistic Text Style Transfer via Shape-Matching GAN
+12.	Controllable Artistic Text Style Transfer via Shape-Matching GAN
 ###### https://arxiv.org/abs/1905.01354
-12.	Multi-Agent Reinforcement Learning Based Frame Sampling for Effective Untrimmed Video Recognition
+13.	Multi-Agent Reinforcement Learning Based Frame Sampling for Effective Untrimmed Video Recognition
 ###### https://arxiv.org/abs/1907.13369
-13.	Expectation-Maximization Attention Networks for Semantic Segmentation
+14.	Expectation-Maximization Attention Networks for Semantic Segmentation
 ###### https://arxiv.org/abs/1907.13426
-14.	VideoBERT: A Joint Model for Video and Language Representation Learning 
+15.	VideoBERT: A Joint Model for Video and Language Representation Learning 
 ###### https://arxiv.org/abs/1904.01766
-15.	CARAFE: Content-Aware ReAssembly of FEatures 
+16.	CARAFE: Content-Aware ReAssembly of FEatures 
 ###### https://arxiv.org/pdf/1905.02188.pdf
-16.	Habitat: A Platform for Embodied AI Research
+17.	Habitat: A Platform for Embodied AI Research
 ###### https://arxiv.org/abs/1904.01201
-17.	Equivariant Multi-View Networks 
+18.	Equivariant Multi-View Networks 
 ###### https://arxiv.org/abs/1904.00993
-18.	PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows
+19.	PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows
 ###### https://arxiv.org/abs/1906.12320
-19.	Learnable Triangulation of Human Pose
+20.	Learnable Triangulation of Human Pose
 ###### https://arxiv.org/abs/1905.05754
-20.	Learning Implicit Generative Models by Matching Perceptual Features
+21.	Learning Implicit Generative Models by Matching Perceptual Features
 ###### https://arxiv.org/abs/1904.02762v1
-21.	COCO-GAN: Generation by Parts via Conditional Coordinating
+22.	COCO-GAN: Generation by Parts via Conditional Coordinating
 ###### https://arxiv.org/abs/1904.00284
-22.	SlowFast Networks for Video Recognition
+23.	SlowFast Networks for Video Recognition
 ###### https://arxiv.org/abs/1812.03982
-23.	Exploring Randomly Wired Neural Networks for Image Recognition
+24.	Exploring Randomly Wired Neural Networks for Image Recognition
 ###### https://arxiv.org/abs/1904.01569
-24.	Can GCNs Go as Deep as CNNs?
+25.	Can GCNs Go as Deep as CNNs?
 ###### https://arxiv.org/abs/1904.03751
-25.	Deep SR-ITM: Joint Learning of Super-resolution and Inverse Tone-Mapping for 4K UHD HDR Applications
+26.	Deep SR-ITM: Joint Learning of Super-resolution and Inverse Tone-Mapping for 4K UHD HDR Applications
 ###### https://arxiv.org/abs/1904.11176
-26.	Meta-Sim Learning to Generate Synthetic Datasets
+27.	Meta-Sim Learning to Generate Synthetic Datasets
 ###### https://arxiv.org/abs/1904.11621
-27.	Deep HoughVoting for 3D Object Detection in Point Clouds
+28.	Deep HoughVoting for 3D Object Detection in Point Clouds
 ###### https://arxiv.org/abs/1904.09664
-28.	Variational Adversarial Active Learning
+29.	Variational Adversarial Active Learning
 ###### https://arxiv.org/abs/1904.00370
-29.	Towards Unconstrained End-to-End Text Spotting
+30.	Towards Unconstrained End-to-End Text Spotting
 ###### https://arxiv.org/abs/1908.09231
-30.	Non-local Recurrent Neural Memory for Supervised Sequence Modeling
+31.	Non-local Recurrent Neural Memory for Supervised Sequence Modeling
 ###### https://arxiv.org/abs/1908.09535
-31.	Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels
+32.	Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels
 ###### https://arxiv.org/abs/1908.09597
+33. Temporal Attentive Alignment for Large-Scale Video Domain Adaptation
+###### https://arxiv.org/abs/1907.12743
 
 ##
 # 增加116篇ICCV2019文章
@@ -1350,7 +1354,8 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 ###### https://arxiv.org/abs/1903.10258
 45.	FrameNet: Learning Local Canonical Frames of 3D Surfaces from a Single RGB Image
 ###### https://arxiv.org/pdf/1903.12305.pdf
-46.	Face De-occlusion using 3D Morphable Model and Generative Adversarialhttp://image.inha.ac.kr/paper/ICCV2019_Xaiowei.pdf
+46.	Face De-occlusion using 3D Morphable Model and Generative Adversarial Network
+###### http://image.inha.ac.kr/paper/ICCV2019_Xaiowei.pdf
 47.	Deep Meta Learning for Real-Time Target-Aware Visual Tracking
 ###### https://arxiv.org/pdf/1712.09153.pdf
 48.	Switchable Whitening for Deep Representation Learning
@@ -1430,6 +1435,7 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 85.	A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers
 ###### https://arxiv.org/abs/1905.12536
 86.	Embodied Visual Recognition
+###### https://arxiv.org/abs/1904.04404
 87.	Rethinking ImageNet Pre-training
 ###### https://arxiv.org/abs/1811.08883
 88.	TensorMask: A Foundation for Dense Object Segmentation
@@ -1510,7 +1516,8 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 6.	Confidence Regularized Self-Training
 ###### https://arxiv.org/abs/1908.09822
 ###### https://github.com/yzou2/CRST
-7.	Optimizing the F-measure for Threshold-free Salient Object Detectionhttp://data.kaizhao.net/publications/iccv2019fmeasure.pdf
+7.	Optimizing the F-measure for Threshold-free Salient Object Detection
+###### http://data.kaizhao.net/publications/iccv2019fmeasure.pdf
 ###### https://github.com/zeakey/iccv2019-fmeasure
 8.	Perspective-Guided Convolution Networks for Crowd Counting
 ###### https://github.com/Zhaoyi-Yan/PGCNet
@@ -1518,7 +1525,8 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 ###### https://arxiv.org/abs/1905.03246
 ###### https://github.com/zhou13/lcnn
 10.	Temporal Attentive Alignment for Large-Scale Video Domain Adaptation
-###### https://arxiv.org/abs/1907.12743http://github.com/cmhungsteve/TA3N
+###### https://arxiv.org/abs/1907.12743
+###### http://github.com/cmhungsteve/TA3N
 11.	From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer
 ###### https://arxiv.org/abs/1908.06473
 ###### https://github. com/xhp-hust-2018-2011/S-DCNet
@@ -1584,7 +1592,7 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 34.	Tex2Shape: Detailed Full Human Body Geometry from a Single Image
 ###### https://arxiv.org/abs/1904.08645
 ###### https://github.com/thmoa/tex2shape
-35.	FCOS: Fully Convolutional One-Stage Object Detectio
+35.	FCOS: Fully Convolutional One-Stage Object Detection
 ###### https://arxiv.org/abs/1904.01355
 ###### https://github.com/tianzhi0549/FCOS/
 36.	
