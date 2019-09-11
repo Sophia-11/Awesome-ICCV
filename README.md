@@ -1492,7 +1492,7 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 ###### https://arxiv.org/abs/1904.01886 
 
 ##
-# 增加35篇包含开源代码的ICCV2019
+# 增加37篇包含开源代码的ICCV2019
 
 1.	Bidirectional One-Shot Unsupervised Domain Mapping
 ###### https://github.com/tomercohen11/BiOST
@@ -1587,8 +1587,12 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 35.	FCOS: Fully Convolutional One-Stage Object Detectio
 ###### https://arxiv.org/abs/1904.01355
 ###### https://github.com/tianzhi0549/FCOS/
-36.	
-37.	
+36.	HBONet: Harmonious Bottleneck on Two Orthogonal Dimensions
+###### https://arxiv.org/abs/1908.03888
+###### https://github.com/d-li14/HBONet
+37.	Differentiable Learning-to-Group Channels via Groupable Convolutional Neural Networks
+###### https://arxiv.org/abs/1908.05867
+###### https://github.com/d-li14/dgconv.pytorch
 38.	
 39.	
 
