@@ -3,7 +3,7 @@
 
 *Last updated: 2019/09/14*
 
-#【计算机视觉联盟】回复【ICCV2019】即可获得百度云论文下载链接
+## 【计算机视觉联盟】回复【ICCV2019】即可获得百度云论文下载链接
 ![image](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/image/1.png)
 
 #### Update log
