@@ -1,7 +1,7 @@
-# 本内容现在是ICCV2019,后期会更新为ICCV2020以随时更新
+# 本内容现在是ICCV2019,后期会更新为ICCV2021以随时更新
 # Awesome-ICCV2019 更新所有录用论文（已更新1000余篇ICCV2019论文）
 
-*Last updated: 2019/10/26*
+*Last updated: 2021/01/25*
 
 ## 【计算机视觉联盟】回复【ICCV2019】即可获得百度云所有论文下载链接
 ![image](https://github.com/Sophia-11/Awesome-ICCV2019/blob/master/image/ICCV.png)
