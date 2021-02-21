@@ -1263,6 +1263,8 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 ###### https://arxiv.org/abs/1908.09535
 31.	Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels
 ###### https://arxiv.org/abs/1908.09597
+32.	Temporal Attentive Alignment for Large-Scale Video Domain Adaptation
+###### https://arxiv.org/abs/1907.12743
 
 ##
 # 增加116篇ICCV2019文章
@@ -1357,7 +1359,8 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 ###### https://arxiv.org/abs/1903.10258
 45.	FrameNet: Learning Local Canonical Frames of 3D Surfaces from a Single RGB Image
 ###### https://arxiv.org/pdf/1903.12305.pdf
-46.	Face De-occlusion using 3D Morphable Model and Generative Adversarialhttp://image.inha.ac.kr/paper/ICCV2019_Xaiowei.pdf
+46.	Face De-occlusion using 3D Morphable Model and Generative Adversarial Network
+###### https://arxiv.org/abs/1904.06109
 47.	Deep Meta Learning for Real-Time Target-Aware Visual Tracking
 ###### https://arxiv.org/pdf/1712.09153.pdf
 48.	Switchable Whitening for Deep Representation Learning
@@ -1437,6 +1440,7 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 85.	A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers
 ###### https://arxiv.org/abs/1905.12536
 86.	Embodied Visual Recognition
+###### https://arxiv.org/abs/1904.04404
 87.	Rethinking ImageNet Pre-training
 ###### https://arxiv.org/abs/1811.08883
 88.	TensorMask: A Foundation for Dense Object Segmentation
@@ -1444,7 +1448,7 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 89.	3D Point Cloud Learning for Large-scale Environment Analysis and Place Recognition
 ###### https://arxiv.org/abs/1812.07050
 90.	Selectivity or Invariance: Boundary-aware Salient Object Detection
-###### https://arxiv.org/pdf/1812.10066.pdf
+###### https://arxiv.org/abs/1812.10066
 91.	Creativity Inspired Zero-Shot Learning
 ###### https://arxiv.org/abs/1904.01109
 92.	HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips
@@ -1525,10 +1529,11 @@ ICCV 的全称是 IEEE International Conference on Computer Vision，即国际�
 ###### https://arxiv.org/abs/1905.03246
 ###### https://github.com/zhou13/lcnn
 10.	Temporal Attentive Alignment for Large-Scale Video Domain Adaptation
-###### https://arxiv.org/abs/1907.12743http://github.com/cmhungsteve/TA3N
+###### https://arxiv.org/abs/1907.12743
+###### http://github.com/cmhungsteve/TA3N
 11.	From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer
 ###### https://arxiv.org/abs/1908.06473
-###### https://github. com/xhp-hust-2018-2011/S-DCNet
+###### https://github.com/xhp-hust-2018-2011/S-DCNet
 12.	Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN
 ###### https://arxiv.org/abs/1904.10247
 ###### https://github.com/amjltc295/Free-Form-Video-Inpainting
